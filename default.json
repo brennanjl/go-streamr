@@ -1,0 +1,17 @@
+{
+    "$schema": "https://schema.streamr.network/config-v3.schema.json",
+    "client": {
+        "auth": {
+            "privateKey": "0x2308dc420116708d11b037f6556c5cdfb07c56474bd6f0bd10c4a0b5dc70801f"
+        },
+        "environment": "polygon"
+    },
+    "plugins": {
+        "websocket": {}
+    },
+    "apiAuthentication": {
+        "keys": [
+            "OWZjODdlN2VjNmNiNGMzYTgzNjRmZmExNzYwNmUxN2Y"
+        ]
+    }
+}
